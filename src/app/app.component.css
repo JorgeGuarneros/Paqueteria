@@ -1,0 +1,10 @@
+.backg{
+  background: url("../assets/paqueteria.jpg");
+}
+.title{
+  text-align: center;
+}
+app-maps{
+  margin-left: 50%;
+}
+
